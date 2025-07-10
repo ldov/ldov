@@ -2,7 +2,7 @@
 
 ---
 
-### 👋 Olá! Bem-vindo(a) ao meu GitHub!
+# 👋 Olá! Bem-vindo(a) ao meu GitHub!
 
 Sou Rafael, um profissional **certificado pela Oracle**, focado no desenvolvimento de soluções de Backend, Inteligência Artificial e Cloud. 
 
