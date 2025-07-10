@@ -1,4 +1,4 @@
-[Read this page in Portuguese 🇧🇷](./README-PT.md)
+[Leia esta página em Português 🇧🇷](./README-PT.md)
 
 ---
 
