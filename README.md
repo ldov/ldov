@@ -41,6 +41,7 @@ A complete RESTful API for managing Service Orders (SO), built with the best pra
 * **Core:** HTML, CSS, JavaScript, TypeScript, Tailwind CSS
 
 ## 🌟 Licenses & Certificates
+* 🏅 **Oracle-certified** - Cloud Infrastructure 2025 Foundations Associate
 * 🏅 **Oracle-certified** - Cloud Infrastructure 2023 Foundations Associate
 * 🏅 **Oracle-certified** - AI 2023 Certified Foundations Associate
 * 🏅 **Oracle-certified** - Cloud Data Management 2023 Foundations Associate
