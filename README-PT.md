@@ -41,6 +41,7 @@ Uma API RESTful completa para gerenciamento de Ordens de Serviço (OS), constru�
 * **Base:** HTML, CSS, JavaScript, TypeScript, Tailwind CSS
 
 ## 🌟 Licenças e Certificados
+* 🏅 **Certificado Oracle** - Cloud Infrastructure 2025 Foundations Associate
 * 🏅 **Certificado Oracle** - Cloud Infrastructure 2023 Foundations Associate
 * 🏅 **Certificado Oracle** - AI 2023 Certified Foundations Associate
 * 🏅 **Certificado Oracle** - Cloud Data Management 2023 Foundations Associate
