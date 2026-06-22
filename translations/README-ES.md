@@ -9,7 +9,7 @@
 
 # 👋 ¡Hola! ¡Bienvenido(a) a mi GitHub!
 
-Soy Rafael, profesional en Sistemas de Información y enfocado en el desarrollo de soluciones que conectan Inteligencia Artificial, Modelado de Sistemas y Cloud.
+Soy Rafael, profesional en Sistemas de Información y enfocado en el desarrollo de soluciones que conectan Inteligencia Artificial, Desarrollo de Sistemas y Cloud.
 
 👉 **[HAZ CLIC AQUÍ PARA VISITAR MI SITIO WEB](https://ldov.pages.dev)**
 
@@ -20,7 +20,7 @@ Soy Rafael, profesional en Sistemas de Información y enfocado en el desarrollo 
 Uniendo el desarrollo de software con la infraestructura necesaria para su funcionamiento, trabajo en los siguientes frentes:
 
 * 🤖 **Inteligencia Artificial:** Agentes, Bots, LLMs (Inferencia, RAG, Adaptación, Ajuste Fino y Optimización de Modelos).
-* 💻 **Modelado de Sistemas:** Aplicaciones Web (Dashboards, Portales, Landing Pages), Aplicaciones de Escritorio (Windows y Linux), APIs y Automatización de Procesos.
+* 💻 **Desarrollo de Sistemas:** Aplicaciones Web (Dashboards, Portales, Landing Pages), Aplicaciones de Escritorio (Windows y Linux), APIs y Automatización de Procesos.
 * ☁️ **Soporte de TI:** Entornos en la Nube (Cloud), Gestión de Servidores, Bases de Datos y Soporte Técnico.
 
 ---
@@ -48,7 +48,7 @@ Un servidor proxy inteligente que se ejecuta silenciosamente en segundo plano, c
 * **Framework:** Smolagents
 * **Proveedores:** Hugging Face, OpenRouter, NVIDIA Cloud, Modal, Runpod, Novita, Ofox.
 
-### 💻 Modelado de Sistemas
+### 💻 Desarrollo de Sistemas
 * **Lenguajes Principales:** Python, TypeScript.
 * **Lenguajes Secundarios:** Java, Golang.
 * **Entornos & Frameworks:** Node.js, Deno, FastAPI, Next.js, React, Preact, ViteJS, Fresh, Wails, Spring Boot.
