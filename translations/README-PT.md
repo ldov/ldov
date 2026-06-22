@@ -63,10 +63,10 @@ Um servidor proxy inteligente que roda silenciosamente em segundo plano, central
 ---
 
 ## 🌟 Licenças e Certificados
-* 🏅 **Oracle Cloud Infrastructure 2025** Certified Foundations Associate
-* 🏅 **Oracle Cloud Infrastructure 2023 AI** Certified Foundations Associate
-* 🏅 **Oracle Cloud Data Management 2023** Certified Foundations Associate
-* 📜 **Google IT Support** Professional Certificate
+* 🏅 **Oracle Cloud Infrastructure 2025** Certified Foundations Associate — [Verificar credencial](https://catalog-education.oracle.com/ords/certview/sharebadge?id=46D93E06F5D5598FFA9BC4CC217C17DD5C31B78ECB1CBFEF7AAD15287615D209)
+* 🏅 **Oracle Cloud Infrastructure 2023 AI** Certified Foundations Associate — [Verificar credencial](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4402856861117063E4A04114D9DBA293905F32FCFB8CCD5D569F09B80495C07F)
+* 🏅 **Oracle Cloud Data Management 2023** Certified Foundations Associate — [Verificar credencial](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3576471617364B08F9EAC367F85EFC2EFB98153A71A3F4EDF7233170568DBBA9)
+* 📜 **Google IT Support** Professional Certificate — [Verificar credencial](https://www.coursera.org/account/accomplishments/specialization/certificate/BTA923NG4FFZ)
 
 ---
 
