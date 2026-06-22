@@ -1,5 +1,9 @@
-| :---: |
-| ![GB](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg) | [Read this page in English](./README.md)
+<div align="right">
+  <a href="./README.md">
+    <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="25" alt="GB">
+    ⬅️ Read this page in English
+  </a>
+</div>
 
 ---
 
