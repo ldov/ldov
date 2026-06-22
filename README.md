@@ -1,4 +1,21 @@
-[Leia esta página em Português 🇧🇷](./README-PT.md)
+### 🌍 **CHOOSE YOUR LANGUAGE • SELECIONE SEU IDIOMA • 言語を選択 • SPRACHE WÄHLEN**
+
+---
+
+### ⚡ **READ THIS PROFILE IN YOUR NATIVE LANGUAGE:**
+
+| Flag | Language | Link |
+| :---: | :--- | :--- |
+| 🇧🇷 | **Português (BR)** | [README-PT.md](./translations/README-PT.md) |
+| 🇯🇵 | **日本語 (JA)** | [README-JA.md](./translations/README-JA.md) |
+| 🇩🇪 | **Deutsch (DE)** | [README-DE.md](./translations/README-DE.md) |
+| 🇪🇸 | **Español (ES)** | [README-ES.md](./translations/README-ES.md) |
+
+---
+
+### 🌐 **EXPLORE MY FULL INTERACTIVE PROFILE**
+
+👉 **[CLICK HERE TO VISIT MY WEBSITE](https://ldov.pages.dev)**
 
 ---
 
