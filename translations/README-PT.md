@@ -11,7 +11,9 @@
 
 Sou Rafael, profissional em Sistemas de Informação e focado no desenvolvimento de soluções conectando Inteligência Artificial, Modelagem de Sistemas e Cloud.
 
-🌐 **Visite meu site para contato e mais informações:** <b>[Ldov - AI & IT Solutions](https://ldov.pages.dev)</b>
+### 🌐 **EXPLORE MEU PERFIL, SERVIÇOS E CONTATO**
+
+👉 **[CLIQUE AQUI PARA VISITAR MEU SITE](https://ldov.pages.dev)**
 
 ---
 
