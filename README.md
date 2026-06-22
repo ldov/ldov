@@ -22,7 +22,7 @@
 
 # 👋 Hello! Welcome to my GitHub!
 
-I am Rafael, an Information Systems professional focused on developing solutions that connect Artificial Intelligence, Systems Modeling, and Cloud.
+I am Rafael, an Information Systems professional focused on developing solutions that connect Artificial Intelligence, Systems Development, and Cloud.
 
 ---
 
@@ -31,7 +31,7 @@ I am Rafael, an Information Systems professional focused on developing solutions
 Bridging software development with the infrastructure required to run it, I operate across the following fronts:
 
 * 🤖 **Artificial Intelligence:** Agents, Bots, LLMs (Inference, RAG, Adaptation, Refinement, and Model Optimization).
-* 💻 **Systems Modeling:** Web Apps (Dashboards, Portals, Landing Pages), Desktop Applications (Windows & Linux), APIs, and Process Automation.
+* 💻 **Systems Development:** Web Apps (Dashboards, Portals, Landing Pages), Desktop Applications (Windows & Linux), APIs, and Process Automation.
 * ☁️ **IT Support:** Cloud Environments, Server Management, Databases, and Technical Support.
 
 ---
