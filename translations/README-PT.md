@@ -1,7 +1,7 @@
 <div align="left">
   <a href="./README.md">
-    ⬅️ Read this page in English 
-     <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="25" alt="GB">
+    ⬅️ Read this page in  
+     <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="25" alt="GB"> ENGLISH
   </a>
 </div>
 
