@@ -8,7 +8,7 @@
 | :---: | :--- | :--- |
 | ![BR](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg) | **Português** | [README-PT.md](./translations/README-PT.md) |
 | ![ES](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg) | **Español** | [README-ES.md](./translations/README-ES.md) |
-| ![JP](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg) | **日本語** | [README-JP.md](./translations/README-JA.md) |
+| ![JP](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg) | **日本語** | [README-JP.md](./translations/README-JP.md) |
 | ![DE](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg) | **Deutsch** | [README-DE.md](./translations/README-DE.md) |
 
 ---
