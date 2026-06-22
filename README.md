@@ -59,7 +59,7 @@ An intelligent proxy server that runs silently in the background, centralizing y
 * **Framework:** Smolagents
 * **Providers:** Hugging Face, OpenRouter, NVIDIA Cloud, Modal, Runpod, Novita, Ofox.
 
-### 💻 Systems Modeling
+### 💻 Systems Development
 * **Primary Languages:** Python, TypeScript.
 * **Secondary Languages:** Java, Golang.
 * **Environments & Frameworks:** Node.js, Deno, FastAPI, Next.js, React, Preact, ViteJS, Fresh, Wails, Spring Boot.
