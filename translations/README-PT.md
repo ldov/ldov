@@ -1,3 +1,4 @@
+| :---: |
 | ![GB](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg) | [Read this page in English](./README.md)
 
 ---
