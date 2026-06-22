@@ -24,8 +24,6 @@
 
 I am Rafael, an Information Systems professional focused on developing solutions that connect Artificial Intelligence, Systems Modeling, and Cloud.
 
-🌐 **Visit my website for contact and more information:** <b>[Ldov - AI & IT Solutions](https://ldov.pages.dev)</b>
-
 ---
 
 ## 🛠️ Services & Solutions
