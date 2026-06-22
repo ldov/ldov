@@ -13,8 +13,8 @@
 
 ---
 
-### 🌐 **EXPLORE MY BACKGROUND AND SERVICES**
-*Can't find your native language? Click below to access my profile  and services available in 22 different languages.*
+### 🌐 **EXPLORE MY PROFILE, SERVICES AND CONTACT**
+*Can't find your native language? Click below to access in 22 different languages.*
 
 👉 **[CLICK HERE TO VISIT MY WEBSITE](https://ldov.pages.dev)**
 
