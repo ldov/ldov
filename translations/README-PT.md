@@ -1,4 +1,4 @@
-![US-GB](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg) [Read this page in English 🇺🇸](./README.md)
+|![US-GB](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us-gb.svg)| [Read this page in English 🇺🇸](./README.md)
 
 ---
 
