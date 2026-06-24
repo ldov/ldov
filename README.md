@@ -40,13 +40,21 @@ Bridging software development with the infrastructure required to run it, I oper
 An artificial intelligence agent focused on interpersonal affinity analysis. The application utilizes the Japanese Ketsueki-gata popular belief to interpret personality compatibility based on blood types. By interacting with the user, Blood Match processes the provided information and delivers a personalized analysis of harmony and connection points between different profiles.
 * 🔗 [more details](https://github.com/ldov/Blood-Match)
 
-### 💻 All ChatLLM
+### 💻 AI-ChatLLM
 A productivity-focused conversation playground that consumes your local endpoints to offer an intuitive chat interface, featuring persistent history, document export tools, and multi-LLM support on a single screen.
-* 🔗 [more details](https://github.com/ldov/All-ChatLLM)
+* 🔗 [more details](https://github.com/ldov/AI-ChatLLM)
 
-### ⚙️ All RouterLLM
+### ⚙️ AI-RouterLLM
 An intelligent proxy server that runs silently in the background, centralizing your API key management and allowing you to create custom endpoints to integrate any AI tool securely and efficiently.
-* 🔗 [more details](https://github.com/ldov/All-RouterLLM)
+* 🔗 [more details](https://github.com/ldov/AI-RouterLLM)
+
+* ### ⚙️ SearchRAG
+An advanced search and retrieval engine with a visual interface, designed to execute a rigorous, high-precision hybrid search algorithm on vector databases, combining deep semantics with exact keyword matching and contextual reconstruction via mechanical neighborhood.
+* 🔗 [more details](https://github.com/ldov/SearchRAG)
+
+* ### ⚙️ VectorRAG
+An application with an intuitive graphical interface that prepares, organizes, and transforms conventional text data into structured vector data, storing it in vector databases to serve as an extension of the knowledge base for AI-driven LLMs via the RAG technique.
+* 🔗 [more details](https://github.com/ldov/VectorRAG)
 
 ---
 
