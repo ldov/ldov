@@ -48,11 +48,11 @@ A productivity-focused conversation playground that consumes your local endpoint
 An intelligent proxy server that runs silently in the background, centralizing your API key management and allowing you to create custom endpoints to integrate any AI tool securely and efficiently.
 * 🔗 [more details](https://github.com/ldov/AI-RouterLLM)
 
-* ### 🔍 SearchRAG
+### 🔍 SearchRAG
 An advanced search and retrieval engine with a visual interface, designed to execute a rigorous, high-precision hybrid search algorithm on vector databases, combining deep semantics with exact keyword matching and contextual reconstruction via mechanical neighborhood.
 * 🔗 [more details](https://github.com/ldov/SearchRAG)
 
-* ### 🔢 VectorRAG
+### 🔢 VectorRAG
 An application with an intuitive graphical interface that prepares, organizes, and transforms conventional text data into structured vector data, storing it in vector databases to serve as an extension of the knowledge base for AI-driven LLMs via the RAG technique.
 * 🔗 [more details](https://github.com/ldov/VectorRAG)
 
