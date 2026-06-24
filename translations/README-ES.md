@@ -27,17 +27,21 @@ Uniendo el desarrollo de software con la infraestructura necesaria para su funci
 
 ## 📂 Proyectos Destacados
 
-### 🤖 Blood Match
-Un agente de inteligencia artificial enfocado en el análisis de afinidad interpersonal. La aplicación utiliza la creencia popular japonesa Ketsueki-gata para interpretar la compatibilidad entre personalidades según los tipos de sangre. Al interactuar con el usuario, Blood Match procesa la información proporcionada y ofrece un análisis personalizado sobre la armonía y los puntos de conexión entre diferentes perfiles.
-* 🔗 [más detalles](https://github.com/ldov/Blood-Match)
+### 💻 AI-ChatLLM
+Un entorno de conversación enfocado en la productividad que utiliza tus *endpoints* locales para ofrecer una interfaz de chat intuitiva; cuenta con historial persistente, herramientas de exportación de documentos y soporte para múltiples LLM en una misma pantalla.
+* 🔗 [más detalles](https://github.com/ldov/AI-ChatLLM)
 
-### 💻 All ChatLLM
-Un playground de conversación enfocado en la productividad, que consume tus endpoints locales para ofrecer una interfaz de chat intuitiva, con historial persistente, herramientas de exportación de documentos y soporte para múltiples modelos de IA en una sola pantalla.
-* 🔗 [más detalles](https://github.com/ldov/All-ChatLLM)
+### ⚙️ AI-RouterLLM
+Un servidor proxy inteligente que se ejecuta discretamente en segundo plano, centralizando la gestión de claves API y permitiendo crear *endpoints* personalizados para integrar cualquier herramienta de IA de forma segura y eficiente.
+* 🔗 [más detalles](https://github.com/ldov/AI-RouterLLM)
 
-### ⚙️ All RouterLLM
-Un servidor proxy inteligente que se ejecuta silenciosamente en segundo plano, centralizando la gestión de tus claves de API y permitiéndote crear endpoints personalizados para integrar cualquier herramienta de IA de forma segura y eficiente.
-* 🔗 [más detalles](https://github.com/ldov/All-RouterLLM)
+### 🔍 SearchRAG
+Un motor avanzado de búsqueda y recuperación con interfaz visual, diseñado para ejecutar un algoritmo de búsqueda híbrida riguroso y de alta precisión sobre bases de datos vectoriales, combinando semántica profunda con coincidencia exacta de palabras clave y reconstrucción contextual mediante vecindad mecánica.
+* 🔗 [más detalles](https://github.com/ldov/SearchRAG)
+
+### 🔢 VectorRAG
+Una aplicación con interfaz gráfica intuitiva que prepara, organiza y transforma datos de texto convencionales en datos vectoriales estructurados, almacenándolos en bases de datos vectoriales para servir como extensión de la base de conocimientos para LLM mediante la técnica RAG.
+* 🔗 [más detalles](https://github.com/ldov/VectorRAG)
 
 ---
 
