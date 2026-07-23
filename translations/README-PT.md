@@ -11,7 +11,7 @@
 
 Sou Rafael, profissional em Sistemas de Informação e focado no desenvolvimento de soluções conectando Inteligência Artificial, Desenvolvimento de Sistemas e Cloud.
 
-👉 **[CLIQUE AQUI PARA VISITAR MEU SITE](https://ldov.pages.dev)**
+👉 **[CLIQUE AQUI PARA VISITAR MEU SITE](https://ldov.uk)**
 
 ---
 
@@ -55,7 +55,7 @@ Uma aplicação com interface gráfica intuitiva que prepara, organiza e transfo
 ### 💻 Desenvolvimento de Sistemas
 * **Linguagens Principais:** Python, TypeScript.
 * **Linguagens Secundárias:** Java, Golang.
-* **Ambientes & Frameworks:** Node.js, Deno, FastAPI, Next.js, React, Preact, ViteJS, Fresh, Wails, Spring Boot.
+* **Ambientes & Frameworks:** Node.js, Deno, FastAPI, Next.js, React, Preact, ViteJS, Wails, Spring Boot.
 * **Fundamentos & Arquitetura:** Programação Orientada a Objetos (OOP), Modelagem de Sistemas com UML, Layered Architecture, RESTful API.
 
 ### ☁️ Suporte de TI & Cloud
