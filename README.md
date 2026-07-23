@@ -1,4 +1,4 @@
-### 🌍 **CHOOSE YOUR LANGUAGE • SELECIONE SEU IDIOMA • 言語を選択 • SPRACHE WÄHLEN**
+### 🌍 **CHOOSE YOUR LANGUAGE • SELECIONE SEU IDIOMA**
 
 ---
 
@@ -14,7 +14,7 @@
 ### 🌐 **EXPLORE MY PROFILE, SERVICES AND CONTACT**
 *Can't find your native language? Click below to access in 22 different languages.*
 
-👉 **[CLICK HERE TO VISIT MY WEBSITE](https://ldov.pages.dev)**
+👉 **[CLICK HERE TO VISIT MY WEBSITE](https://ldov.uk)**
 
 ---
 
