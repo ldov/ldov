@@ -48,14 +48,6 @@ A productivity-focused conversation playground that consumes your local endpoint
 An intelligent proxy server that runs silently in the background, centralizing your API key management and allowing you to create custom endpoints to integrate any AI tool securely and efficiently.
 * 🔗 [more details](https://github.com/ldov/AI-RouterLLM)
 
-### 🔍 SearchRAG
-An advanced search and retrieval engine with a visual interface, designed to execute a rigorous, high-precision hybrid search algorithm on vector databases, combining deep semantics with exact keyword matching and contextual reconstruction via mechanical neighborhood.
-* 🔗 [more details](https://github.com/ldov/SearchRAG)
-
-### 🔢 VectorRAG
-An application with an intuitive graphical interface that prepares, organizes, and transforms conventional text data into structured vector data, storing it in vector databases to serve as an extension of the knowledge base for AI-driven LLMs via the RAG technique.
-* 🔗 [more details](https://github.com/ldov/VectorRAG)
-
 ---
 
 ## 💡 Skills
@@ -68,7 +60,7 @@ An application with an intuitive graphical interface that prepares, organizes, a
 ### 💻 Systems Development
 * **Primary Languages:** Python, TypeScript.
 * **Secondary Languages:** Java, Golang.
-* **Environments & Frameworks:** Node.js, Deno, FastAPI, Next.js, React, Preact, ViteJS, Fresh, Wails, Spring Boot.
+* **Environments & Frameworks:** Node.js, Deno, FastAPI, Next.js, React, Preact, ViteJS, Wails, Spring Boot.
 * **Fundamentals & Architecture:** Object-Oriented Programming (OOP), Systems Modeling with UML, Layered Architecture, RESTful API.
 
 ### ☁️ IT Support & Cloud
