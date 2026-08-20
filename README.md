@@ -1,6 +1,7 @@
 <div align="left"> 
- <div align="left"> <a href="/README.md"> ⬅️ Leia esta página em <img src="https://githubusercontent.com" width="25" alt="BR"> PORTUGUÊS </a> </div> 
+  <a href="/translations/README-PT.md"> ⬅️ Leia esta página em <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" width="25" alt="BR"> PORTUGUÊS </a> 
 </div>
+
 
 ---
 
