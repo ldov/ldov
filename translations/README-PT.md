@@ -35,14 +35,6 @@ Um ambiente interativo de conversação focado em produtividade que utiliza seus
 Um servidor proxy inteligente que opera silenciosamente em segundo plano, centralizando o gerenciamento de chaves de API e permitindo a criação de endpoints personalizados para integrar qualquer ferramenta de IA de forma segura e eficiente.
 * 🔗 [mais detalhes](https://github.com/ldov/AI-RouterLLM)
 
-### 🔍 SearchRAG
-Um mecanismo avançado de busca e recuperação com interface visual, projetado para executar um algoritmo rigoroso de busca híbrida de alta precisão em bancos de dados vetoriais, combinando semântica profunda com correspondência exata de palavras-chave e reconstrução contextual via vizinhança mecânica.
-* 🔗 [mais detalhes](https://github.com/ldov/SearchRAG)
-
-### 🔢 VectorRAG
-Uma aplicação com interface gráfica intuitiva que prepara, organiza e transforma dados de texto convencionais em dados vetoriais estruturados, armazenando-os em bancos de dados vetoriais para servir como uma extensão da base de conhecimento para LLMs impulsionados por IA, utilizando a técnica RAG.
-* 🔗 [mais detalhes](https://github.com/ldov/VectorRAG)
-
 ---
 
 ## 💡 Habilidades
