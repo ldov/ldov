@@ -7,7 +7,6 @@
 | Flag | Language | Link |
 | :---: | :--- | :--- |
 | ![BR](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg) | **Português** | [README-PT.md](./translations/README-PT.md) |
-| ![ES](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg) | **Español** | [README-ES.md](./translations/README-ES.md) |
 
 ---
 
