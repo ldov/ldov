@@ -27,6 +27,10 @@ Unindo o desenvolvimento de software com a infraestrutura necessária para ele f
 
 ## 📂 Projetos em Destaque
 
+### 🤖 Blood Match
+Um agente de inteligência artificial focado na análise de afinidade interpessoal. O aplicativo utiliza a crença popular japonesa *Ketsueki-gata* para interpretar a compatibilidade de personalidade com base nos tipos sanguíneos. Ao interagir com o usuário, o Blood Match processa as informações fornecidas e apresenta uma análise personalizada da harmonia e dos pontos de conexão entre diferentes perfis.
+* 🔗 [mais detalhes](https://github.com/ldov/Blood-Match)
+
 ### 💻 AI-ChatLLM
 Um ambiente interativo de conversação focado em produtividade que utiliza seus endpoints locais para oferecer uma interface de chat intuitiva, contando com histórico persistente, ferramentas de exportação de documentos e suporte a múltiplos LLMs em uma única tela.
 * 🔗 [mais detalhes](https://github.com/ldov/AI-ChatLLM)
