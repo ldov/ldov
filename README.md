@@ -25,17 +25,17 @@ Bridging software development with the infrastructure required for it to run, I 
 
 ## 📂 Featured Projects
 
-### 🤖 Blood Match
+### 🤖 AI-BloodMatch
 An artificial intelligence agent focused on analyzing interpersonal affinity. The application uses the popular Japanese belief *Ketsueki-gata* to interpret personality compatibility based on blood types. When interacting with the user, Blood Match processes the provided information and presents a personalized analysis of harmony and connection points between different profiles.
-* 🔗 [more details](https://github.com)
+* 🔗 [more details](https://github.com/ldov/AI-BloodMatch)
 
 ### 💻 AI-ChatLLM
 An interactive, productivity-focused conversation environment that utilizes your local endpoints to offer an intuitive chat interface, featuring persistent history, document export tools, and support for multiple LLMs on a single screen.
-* 🔗 [more details](https://github.com)
+* 🔗 [more details](https://github.com/ldov/AI-ChatLLM)
 
 ### ⚙️ AI-RouterLLM
 An intelligent proxy server that operates silently in the background, centralizing API key management and allowing the creation of custom endpoints to integrate any AI tool securely and efficiently.
-* 🔗 [more details](https://github.com)
+* 🔗 [more details](https://github.com/ldov/AI-RouterLLM)
 
 ---
 
