@@ -7,7 +7,7 @@
 
 # 👋 Hello! Welcome to my GitHub!
 
-I'm Rafael, an Information Systems undergraduate student. My education bridges the study of technology with a foundation in Philosophy, which directly contributes to logical structuring and system fault diagnostics. In practice, I aim to integrate backend development with cloud infrastructure and Artificial Intelligence solutions, assessing the technical feasibility and cost efficiency of the resources used.
+I'm Rafael, an Science in Computer Science undergraduate student. My education bridges the study of technology with a foundation in Philosophy, which directly contributes to logical structuring and system fault diagnostics. In practice, I aim to integrate backend development with cloud infrastructure and Artificial Intelligence solutions, assessing the technical feasibility and cost efficiency of the resources used.
 
 👉 **[CLICK HERE TO VISIT MY WEBSITE](https://ldov.uk)**
 
@@ -71,4 +71,4 @@ An intelligent proxy server that operates silently in the background, centralizi
 
 ## 📚 Education
 
-* 🎓 **Information Systems** BSc student
+* 🎓 **Bachelor of Science in Computer Science** BSc student
