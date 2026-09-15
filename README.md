@@ -71,4 +71,4 @@ An intelligent proxy server that operates silently in the background, centralizi
 
 ## 📚 Education
 
-* 🎓 **Bachelor of Science in Computer Science** BSc student
+* 🎓 **Bachelor of Science in Computer Science**
