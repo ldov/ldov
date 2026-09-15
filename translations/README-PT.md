@@ -73,4 +73,4 @@ Um servidor proxy inteligente que opera silenciosamente em segundo plano, centra
 ---
 
 ## 📚 Formação Acadêmica
-* 🎓 **Sistemas de Informação**
+* 🎓 **Bacharelado em Sistemas de Informação**
